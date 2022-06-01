@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Software+Engineer;)](https://git.io/typing-svg)
 
+<div>
+
+# 👋 Hi there, I am <a href="https://bhavya.dev">Bhavya Tomar!</a> <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
+
+</div>
+
 <img align='right' src="/.github/cat.gif" height="" width="300" alt="coding cat">
 
 # 💫About Me :
