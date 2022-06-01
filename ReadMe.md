@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Software+Engineer;)](https://git.io/typing-svg)
 
 
-<img align='right' src="[/.github/cat.gif](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cq8zq18nxebpo5t2r1dgnmyddibdq953rd74v2xb&rid=giphy.gif&ct=g)" height="" width="300" alt="coding cat">
+<img align='right' src="(https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cq8zq18nxebpo5t2r1dgnmyddibdq953rd74v2xb&rid=giphy.gif&ct=g)](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611d4b3483f8b4ddb7bf30d41b22fe2cb5eebf837b2&rid=giphy.gif&ct=g)" height="" width="300" alt="">
 
 # 💫About Me :
 
