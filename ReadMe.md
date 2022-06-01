@@ -1,6 +1,8 @@
 # Harshad Kachi
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Software+Engineer;)](https://git.io/typing-svg)
+
+<!-- <img alt="GitHub followers" src="https://img.shields.io/github/followers/BhavyaCodes?label=follow&logo=github&style=flat-square"> -->
 # 💫About Me :
 
     👋 Hello, Welcome to my profile
