@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Software+Engineer;)](https://git.io/typing-svg)
 
 
-<img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cq8zq18nxebpo5t2r1dgnmyddibdq953rd74v2xb&rid=giphy.gif&ct=g" height="" width="300" margin-top= "250" alt="">
+<img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47cq8zq18nxebpo5t2r1dgnmyddibdq953rd74v2xb&rid=giphy.gif&ct=g" height="" width="300" margin-top= "250px" alt="">
 
 # 💫About Me :
 
