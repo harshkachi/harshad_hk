@@ -15,7 +15,10 @@
     😎 I love Cricket and Binge Watching the movies for sometimes
     📫 How to reach me -> drop me a mail at harshad931998@gmail.com
     ❤️ You can ping me at LinkedIn
-
+    
+![age](https://img.shields.io/badge/age-24-blue&height="20")
+![living](https://img.shields.io/badge/living-Pune, Maharashtra-maroon)
+![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 
 
 ## 🌐Socials
