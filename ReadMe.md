@@ -32,3 +32,7 @@
 <!-- 
 ### 😂Random Developer Meme -->
 <!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
+
+<code>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
+</code>
